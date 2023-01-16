@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Haley Joerger
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -9,10 +9,10 @@ owner:
   name: Haley Joerger
   avatar: IMG-8974.jpg
   bio: Computer Science major at Sonoma State University.
-  email: #emailaddress
+  email: joergerh@sonoma.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: https://www.linkedin.com/in/haley-joerger-0ab2a7222/ 
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
