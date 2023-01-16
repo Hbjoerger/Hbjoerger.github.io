@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Software Engineer @ Keysight Technologies
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2020-2024
+__Sonoma State University__
+Completing Computer Science Degree
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016-2020
+__Maria Carrillo High School__
+High School Diploma
 
 ## Awards
 
